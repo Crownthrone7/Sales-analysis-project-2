@@ -9,12 +9,6 @@
 
 ## Technologies Used
 - Microsoft Excel for data analysis
-- Matplotlib for data visualization
-
-## How to Use
-1. Download the Excel file to view the raw data.
-2. View the visualizations in the `Sales_Analysis_Dashboard.png` file.
-3. Analyze the findings and insights derived from the data.
 
 ## License
 This project is licensed under the MIT License.
